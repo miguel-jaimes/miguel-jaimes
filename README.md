@@ -8,4 +8,4 @@ Business Analytics student at **UT Dallas** (graduating December 2026) with BI i
 
 **Tools:** SQL · Python · Power BI · Tableau · Excel · Alteryx · Azure SQL · Power Automate · Git
 
-[LinkedIn](https://www.linkedin.com/in/miguel-jaimes-7558a2133/)
+[LinkedIn](https://www.linkedin.com/in/migueljaimesprofile/)
