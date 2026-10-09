@@ -4,7 +4,7 @@ Business Analytics student at **UT Dallas** (graduating December 2026) with BI i
 
 **Looking for:** full-time entry-level **data, BI or business analyst** roles after graduation. DFW preferred, open to anywhere in the US.
 
-**Featured project:** [Job-Search Copilot](https://github.com/miguel-jaimes/job-search-copilot): a Python pipeline that pulls live postings from 85 employers' hiring APIs, ranks them with an LLM, and builds truthful one-page resumes from a verified experience bank.
+**Featured project:** [Job-Search Copilot](https://github.com/miguel-jaimes/job-search-copilot): a Python pipeline that pulls live postings from 85 employers' hiring APIs, ranks them with an LLM that I evaluated against 40 hand-labeled postings, and builds truthful one-page resumes from a verified experience bank.
 
 **Tools:** SQL · Python · Power BI · Tableau · Excel · Alteryx · Azure SQL · Power Automate · Git
 
